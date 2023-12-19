@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey, I'm Novil!</h1>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-photo/white-notebook-black-data-firewall_1150-1733.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702857600&semt=sph" alt="Novil" width="300" height="300">
+  <img src="https://img.freepik.com/free-photo/white-notebook-black-data-firewall_1150-1733.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702857600&semt=sph" alt="Novil" width="400" height="350">
 </p>
 
 <p align="center">
