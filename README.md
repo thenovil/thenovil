@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Frontend Developer | Graphic Designer | Explorer of Pixels 🎨
+  Frontend Developer | Graphic Designer | Pixel Enthusiast 🎨
 </p>
 
 ---
@@ -25,29 +25,29 @@
 
 ### Backend & Databases
 - MongoDB
-- Basics of C, C++, Java, and Python
 
 ### Graphic Design
-- [Your graphic design skills here]
+- Photoshop
+- Illustrator
+- Sketch
 
 ### Other Skills
-- [Any additional skills you want to highlight]
+- UI/UX Design
+- Wireframing
+- Prototyping
+- Git & Version Control
 
 ---
 
 ## Project Showcase 🚀
 
-### Project 1: Amazing Project
-<p align="center">
-  <img src="/path/to/project1.gif" alt="Project 1" width="600">
-</p>
-A brief description of this amazing project and its impact.
+### Project 1: Todo List App
+[![Todo List App](https://your-todolist-app-thumbnail.png)](https://todolist-reactjs-nov.netlify.app/)
+A simple todo list app built with React.
 
-### Project 2: Incredible Creation
-<p align="center">
-  <img src="/path/to/project2.gif" alt="Project 2" width="600">
-</p>
-Description of another incredible creation and its significance.
+### Project 2: Login Page
+[![Login Page](https://your-loginpage-thumbnail.png)](https://loginpage-nov.netlify.app/)
+A login page design project demonstrating frontend skills.
 
 <!-- Feel free to add more project showcases -->
 
@@ -56,7 +56,7 @@ Description of another incredible creation and its significance.
 ## About Me 🌟
 
 <p align="center">
-  Currently pursuing my Bachelor's in [Your Field] while diving deep into the world of frontend development and design.
+  Currently in the IT field, specializing in frontend development, graphic design, and exploring the realms of technology and creativity.
 </p>
 
 ---
@@ -78,7 +78,11 @@ Description of another incredible creation and its significance.
 ## Languages 🌐
 
 <p align="center">
-  [Language icons or logos here (e.g., HTML, CSS, JavaScript, etc.)]
+  <img src="https://your-icon-url/html-icon.png" alt="HTML" width="30">&nbsp;&nbsp;
+  <img src="https://your-icon-url/css-icon.png" alt="CSS" width="30">&nbsp;&nbsp;
+  <img src="https://your-icon-url/javascript-icon.png" alt="JavaScript" width="30">&nbsp;&nbsp;
+  <img src="https://your-icon-url/react-icon.png" alt="React" width="30">&nbsp;&nbsp;
+  <!-- Add other language icons -->
 </p>
 
 ---
@@ -86,5 +90,6 @@ Description of another incredible creation and its significance.
 ## GitHub Stats 📈
 
 <p align="center">
-  [Include your GitHub stats using shields.io or other services]
+  ![GitHub Stats](https://your-github-stats-url.com)
 </p>
+
