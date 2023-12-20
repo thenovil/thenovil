@@ -27,8 +27,8 @@
 ### Programming Languages
 - C
 - C++
-- Java
-- Python
+- Java (Basics)
+- Python.........
 - R
 - Scala
   
@@ -39,7 +39,7 @@
 
 ### Other Skills
 - UI/UX Design
-- Wireframing
+- DATA Management
 - Prototyping
 - Git & Version Control
 
@@ -67,10 +67,10 @@ Witness an aesthetically designed login page showcasing frontend prowess.
 ## Let's Connect 🌐
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/novil-barapatre-484945271/"><img src="https://your-linkedin-icon-url.com" alt="LinkedIn" width="30"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/novil-barapatre-484945271/"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-0t094boq.png" alt="LinkedIn" width="30"></a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
+<p align="center" >
   Let's collaborate, innovate, and craft digital marvels together!
 </p>
 
