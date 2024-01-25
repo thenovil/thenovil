@@ -18,19 +18,17 @@ Feel free to check out my website [portfolio](https://portfolio-nov.netlify.app/
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thenovil&repo=LOGIN-PAGE-nov&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/thenovil/LOGIN-PAGE-nov) &nbsp; 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thenovil&repo=TODO-APP-REACT-nov&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/thenovil/TODO-APP-REACT-nov)
-
 &nbsp;
-
 ## 📊 &nbsp;Stats
 
 ![novil's Github Stats](https://github-readme-stats.vercel.app/api?username=thenovil&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thenovil&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
+## 📊 &nbsp;Stats1
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=thenovil&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenovil&layout=compact&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thenovil&theme=gruvbox" />  
-
+## 📊 &nbsp;Stats 2
 <a href="https://github.com/thenovil/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
 <a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox""></a>
 <a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
