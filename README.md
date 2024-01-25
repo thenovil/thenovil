@@ -1,101 +1,48 @@
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
-<h1 align="center">👋 Hey, I'm Novil!</h1>
+[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
 
-<p align="center">
-  <img src="https://img.freepik.com/free-photo/white-notebook-black-data-firewall_1150-1733.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702857600&semt=sph" alt="Novil" width="400" height="350">
-</p>
+# 👋 &nbsp;Hi there
 
-<p align="center">
-  Frontend Developer | Graphic Designer | Pixel Enthusiast 🎨
-</p>
+I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
 
----
+&nbsp;
 
-## Skills & Tools 🛠️
+## 👇 &nbsp;Current project
 
-### Frontend Development
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- React
-- Next.js
+I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
 
-### Backend & Databases
-- MongoDB
+![Tweetormator](/assets/tweetormator.jpg)
 
-### Programming Languages
-- C
-- C++
-- Java (Basics)
-- Python.........
-- R
-- Scala
-  
-### Graphic Design
-- Photoshop
-- Illustrator
-- Sketch
+&nbsp;
 
-### Other Skills
-- UI/UX Design
-- DATA Management
-- Prototyping
-- Git & Version Control
+## ✏️ &nbsp;Blog posts
 
----
+<!-- BLOG-POST-LIST:START -->
+- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
+- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
+- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
+- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
+<!-- BLOG-POST-LIST:END -->
 
-## Project Showcase 🚀
+&nbsp;
 
-### Project 1: Todo List App
-[![Todo List App](https://cdn.dribbble.com/users/2446756/screenshots/5102086/media/db19e1d312c7a05e85a439d9f161163e.png?resize=400x300&vertical=center)](https://todolist-reactjs-nov.netlify.app/)
-Experience productivity redefined with this React-powered todo list app!
+## 🧰 &nbsp;My toolbox
 
-### Project 2: Login Page
-[![Login Page](https://cdn-icons-png.flaticon.com/512/6681/6681204.png)](https://loginpage-nov.netlify.app/)
-Witness an aesthetically designed login page showcasing frontend prowess.
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/> &nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 
----
+&nbsp;
 
-## About Me 🌟
+## 🖥 &nbsp;Past work
 
-<p align="center">
-👋Hey, I'm Novil, an IT professional crafting digital landscapes through a fusion of technology and creativity. With a foundation in frontend development and graphic design, I thrive on sculpting intuitive user interfaces and captivating designs. Beyond coding, I delve into uncharted realms, seeking inspiration from the synergy of art, technology, and culture, always eager to embark on new adventures in the digital universe.</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
 
----
+&nbsp;
 
-## Let's Connect 🌐
+## 📊 &nbsp;Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/novil-barapatre-484945271/"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-0t094boq.png" alt="LinkedIn" width="30"></a>&nbsp;&nbsp;
-</p>
+![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=CyrisXD&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-<p align="center" >
-  Let's collaborate, innovate, and craft digital marvels together!
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyrisXD&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
----
-
-## Languages 🌐
-
-<p align="center">
-  <img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png" alt="HTML" width="30">&nbsp;&nbsp;
-  <img src="https://w7.pngwing.com/pngs/804/171/png-transparent-web-development-cascading-style-sheets-css3-html-world-wide-web-blue-angle-web-design-thumbnail.png" alt="CSS" width="30">&nbsp;&nbsp;
-  <img src="https://w7.pngwing.com/pngs/725/775/png-transparent-javascript-html-logo-blog-css3-javanese-miscellaneous-angle-text-thumbnail.png" alt="JavaScript" width="30">&nbsp;&nbsp;
-  <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="React" width="30">&nbsp;&nbsp;
-</p>
-
----
-
-## GitHub Stats 📈
-
-<p align="center">
-thenovil/github-readme-stats
-thenovil/github-readme-streak-stats
-</p>
-
-
-<img align="right" alt="Coding" width="100%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-
-
+<a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a>
