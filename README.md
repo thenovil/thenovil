@@ -8,27 +8,28 @@ I'm a software developer based in New Zealand. I enjoy coding open-source projec
 
 ## 🧰 &nbsp;My toolbox
 
-## Technologies I Love
+## Technologies I Love 🚀
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="20" height="20"> JavaScript
-- <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="NodeJS" width="20" height="20"> NodeJS
-- <img src="https://expressjs.com/images/express-facebook-share.png" alt="ExpressJS" width="auto" height="20"> ExpressJS
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="20" height="20"> ReactJS
-- <img src="https://iconape.com/wp-content/files/ke/64760/svg/next-js.svg" alt="NextJS" width="20" height="20"> NextJS
-- <img src="https://seeklogo.com/images/T/tailwind-css-logo.png" alt="TailwindCSS" width="20" height="20"> TailwindCSS
-- <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="Firebase" width="20" height="20"> Firebase
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) NodeJS
+- ![ExpressJS](https://img.icons8.com/fluency/48/000000/expressjs.png) ExpressJS
+- ![ReactJS](https://img.icons8.com/color/48/000000/react-native.png) ReactJS
+- ![NextJS](https://img.icons8.com/color/48/000000/next.png) NextJS
+- ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwind-css.png) TailwindCSS
+- ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase
 
-## Tools of the Trade
+## Tools of the Trade 🔧
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="20" height="20"> Visual Studio Code
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="20" height="20"> Adobe Photoshop
+- ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code
+- ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) Adobe Photoshop
 
-## Web Development Goodies
+## Web Development Goodies 🎨
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" width="20" height="20"> HTML5
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"> CSS3
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
 
-Feel free to explore my repositories to see these technologies in action! 🚀
+Feel free to explore my repositories and witness the magic of these technologies! 🚀
+
 &nbsp;
 
 ## 🖥 &nbsp;Past work
@@ -42,13 +43,9 @@ Feel free to explore my repositories to see these technologies in action! 🚀
 ![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=thenovil&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thenovil&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-novil
-yellow
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=thenovil&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenovil&layout=compact&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thenovil&theme=gruvbox" />  
-
 <a href="https://github.com/thenovil/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
 <a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox""></a>
 <a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
