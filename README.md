@@ -90,8 +90,8 @@ Witness an aesthetically designed login page showcasing frontend prowess.
 ## GitHub Stats 📈
 
 <p align="center">
-  ![GitHub Stats](https://your-github-stats-url.com)
-
+thenovil/github-readme-stats
+thenovil/github-readme-streak-stats
 </p>
 
 
