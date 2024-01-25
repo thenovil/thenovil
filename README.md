@@ -2,38 +2,22 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [portfolio](https://portfolio-nov.netlify.app/) for my blog and more.
+Hi there! 👋 I'm [Your Name], a software developer from Nagpur, India, currently based in New Zealand. I enjoy working on open-source projects that solve interesting problems. My passion extends to combining hobbies like 3D printing and building projects with Raspberry Pi's or Arduino. I'm particularly fascinated by Home Automation and Home Labs.
+
+Connect with me on LinkedIn: [Novil](https://www.linkedin.com/in/novilbarapatre/)
+
+Feel free to check out my website [portfolio](https://portfolio-nov.netlify.app/) for my blog and more.
+
 
 &nbsp;
 ## 🧰 &nbsp;My toolbox
-
-## Technologies I Love 🚀
-
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) NodeJS
-- ![ExpressJS](https://img.icons8.com/fluency/48/000000/expressjs.png) ExpressJS
-- ![ReactJS](https://img.icons8.com/color/48/000000/react-native.png) ReactJS
-- ![NextJS](https://img.icons8.com/color/48/000000/next.png) NextJS
-- ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwind-css.png) TailwindCSS
-- ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase
-
-## Tools of the Trade 🔧
-
-- ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code
-- ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) Adobe Photoshop
-
-## Web Development Goodies 🎨
-
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
-
-Feel free to explore my repositories and witness the magic of these technologies! 🚀
 
 &nbsp;
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thenovil&repo=LOGIN-PAGE-nov&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/thenovil/LOGIN-PAGE-nov) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thenovil&repo=TODO-APP-REACT-nov&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/thenovil/TODO-APP-REACT-nov)
 
 &nbsp;
 
