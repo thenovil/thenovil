@@ -25,9 +25,7 @@ Feel free to check out my website [portfolio](https://portfolio-nov.netlify.app/
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thenovil&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-## 📊 &nbsp;Stats 
-<div style="display: flex; align-items: flex-start; flex-direction:row;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thenovil&show_icons=true&count_private=true&theme=gruvbox" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenovil&layout=compact&count_private=true&theme=gruvbox" width="50%" />
-</div>
+![novs](https://github-readme-stats.vercel.app/api?username=thenovil&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenovil&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenovil&show_icons=true&theme=radical)
 
