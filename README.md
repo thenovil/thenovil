@@ -3,7 +3,7 @@
 
 Hi there! 👋 I'm [Your Name], a software developer from Nagpur, India, currently based in New Zealand. I enjoy working on open-source projects that solve interesting problems. My passion extends to combining hobbies like 3D printing and building projects with Raspberry Pi's or Arduino. I'm particularly fascinated by Home Automation and Home Labs.
 
-[![Video Demo](https://www.pexels.com/video/a-computer-code-running-on-screen-6804117/)](https://www.pexels.com/video/a-computer-code-running-on-screen-6804117/)
+![Video Demo](4496268.gif)
 
 
 Connect with me on LinkedIn: [Novil](https://www.linkedin.com/in/novilbarapatre/)
