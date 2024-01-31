@@ -1,7 +1,7 @@
 
 # 👋 &nbsp;Hi there
 
-Hi there! 👋 I'm [Your Name], a software developer from Nagpur, India, currently based in New Zealand. I enjoy working on open-source projects that solve interesting problems. My passion extends to combining hobbies like 3D printing and building projects with Raspberry Pi's or Arduino. I'm particularly fascinated by Home Automation and Home Labs.
+Hi there! 👋 I'm Novil, a software developer from Nagpur, India. I enjoy working on open-source projects that solve interesting problems. My passion extends to combining hobbies like 3D printing and building projects with Raspberry Pi's or Arduino. I'm particularly fascinated by Home Automation and Home Labs.
 
 
 
